@@ -6,11 +6,23 @@
 
 ---
 
-###Technical Skills
+### Technical Skills
 
 <table>
     <tr>
+        <th>
+            <strong>Languages</strong>
+        </th>
+        <th>
+            <strong>Frameworks & Libraries</strong>
+        </th>
     </tr>
     <tr>
+        <th>
+            <strong>Libraries</strong>
+        </th>
+        <th>
+            <strong>Developer Tools</strong>
+        </th>
     </tr>
 </table>
