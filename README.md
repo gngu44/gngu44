@@ -1,6 +1,6 @@
 <div align="center"> 
     <h1>gngu44<h1>
-    <p>Software Engineer | Web Developer | High-Performance Computing</p>
+    <h5>Software Engineer | Web Developer | High-Performance Computing</h5>
     <a href="https://github.com/gngu44"><img src="https://img.shields.io/badge/GitHub-gngu44-181717?style=for-the-badge&logo=github" alt="GitHub"/></a>
 </div>
 
@@ -46,3 +46,7 @@
 
 ---
 
+<div align="center">
+    <h3>Let's Connect!</h3>
+    <p>I'm always open to collaborate on innovative projects and discussing computing!</p> 
+</div>
