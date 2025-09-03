@@ -39,6 +39,7 @@
             <strong>Developer Tools</strong>
             <br/><br/>
             <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+            <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=Vite&logoColor=white" alt="Vite">
         </th>
     </tr>
 </table>
