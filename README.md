@@ -10,7 +10,7 @@
 
 <table>
     <tr>
-        <th>
+        <th valign="top" width="50%">
             <strong>Languages</strong>
         </th>
         <th>
@@ -18,7 +18,7 @@
         </th>
     </tr>
     <tr>
-        <th>
+        <th valign="top" width="50%">
             <strong>Libraries</strong>
         </th>
         <th>
@@ -26,3 +26,6 @@
         </th>
     </tr>
 </table>
+
+---
+
